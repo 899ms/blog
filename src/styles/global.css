@@ -688,7 +688,9 @@ html.dark [data-article] :where(img[data-image-surface='light']) {
 }
 
 .mermaid-render svg {
+  display: block;
   max-width: 100%;
   height: auto;
+  margin-inline: auto;
   cursor: zoom-in;
 }
