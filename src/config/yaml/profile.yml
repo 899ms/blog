@@ -24,7 +24,7 @@ socialLinks:
 # "What I Do" Section
 whatIDo:
   title: 'What I Do'
-  description: 'I build RL frameworks for large language model post-training at Xiaohongshu. My current focus is accelerating rollout systems, from distributed execution and inference performance to end-to-end training efficiency.'
+  description: 'I build RL frameworks for large language model post-training at Xiaohongshu. My current focus is accelerating (agentic) rollout systems, from distributed execution and inference performance to end-to-end training efficiency.'
 
 # "Tech Stack" Section
 techStack:
@@ -45,11 +45,11 @@ journey:
   items:
     - year: 'Present'
       role: 'RL Framework Engineer, LLM Infrastructure at Xiaohongshu'
-      description: 'Building post-training frameworks for large language models, with a focus on accelerating rollout systems.'
+      description: 'Building post-training frameworks for large language models, with a focus on accelerating (agentic) rollout systems.'
       color: 'bg-red-500' # Dot color
     - year: '2022.7 - 2026.6'
-      role: 'LLM Inference Framework Engineer at Baidu'
-      description: 'Worked on PaddlePaddle (飞桨) LLM inference framework development.'
+      role: 'LLM Inference Infrastructure Engineer, ERNIE at Baidu'
+      description: 'Worked on inference infrastructure for ERNIE (文心) large language models, including PaddlePaddle (飞桨) inference framework development.'
       color: 'bg-blue-500' # Dot color
     - year: '2019.9 - 2022.6'
       role: 'M.Eng. in Control Science & Engineering — Huazhong University of Science and Technology'
